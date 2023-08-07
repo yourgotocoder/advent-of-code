@@ -1,0 +1,33 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Solutions for advent of code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourgotocoder/advent-of-code.git"
+  },
+  "keywords": [
+    "Advent",
+    "of",
+    "code",
+    "problem",
+    "solving",
+    "alogrightms"
+  ],
+  "author": "Sudarshan Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourgotocoder/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/yourgotocoder/advent-of-code#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
